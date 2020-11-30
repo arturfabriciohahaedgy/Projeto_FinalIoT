@@ -7,7 +7,7 @@
 
 <b>Plataforma:</b> [TinkerCad](https://www.tinkercad.com)
 
-<b>Componentes Utilizados:</b> Arduino Uno R3,3 Placas de Ensaio, Sensor de LCD16x2, Teclado4x4.
+<b>Componentes Utilizados:</b> Arduino Uno R3,3 Placas de Ensaio, Display de LCD16x2, Teclado4x4.
 
 <b>Creditos:</b>Trabalho realizado por [Artur Fabricio da Silva](https://github.com/arturfabriciohahaedgy) e [Thiago Larangeira Souza](https://github.com/baconzitus).
 

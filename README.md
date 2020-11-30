@@ -1,8 +1,12 @@
 # Projeto_FinalIoT
 ![](https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png)
 
-Atividade avaliativa de Projeto Final da disciplina de IoT (Internet of Things) do curso técnico de informatica SATC 2020
+<b>Contexto:</b> Atividade avaliativa de Projeto Final da disciplina de IoT (Internet of Things) do curso técnico de informatica SATC 2020.
 
-O objetivo do nosso projeto projeto é realizar uma calculadora e um jogo baseado em acertar as respostas de equações matematicas envolvendo subtração, adição, multiplicação e divisão utilizando a placa Arduino Uno R3, um teclado 4x4 e um display LCD 16x2.
+<b>Objetivo:</b> O objetivo do nosso projeto projeto é realizar uma calculadora e um jogo baseado em acertar as respostas de equações matematicas envolvendo subtração, adição, multiplicação e divisão, o trabalho conta com um sistema de pontos e um algoritimo que vai aumentar a dificuldade (ou diminui-la) de acordo com a quantidade de pontos adquiridos, as equações propostas são definidas por números aleatorios gerados a partir do tamanho em milisegundos em que o usuario inicia o jogo.
 
-Trabalho realizado por [Artur Fabricio da Silva](https://github.com/arturfabriciohahaedgy) e [Thiago Larangeira Souza](https://github.com/baconzitus).
+<plataforma> [TinkerCad](https://www.tinkercad.com)
+
+<b>Componentes Utilizados:</b> Arduino Uno R3,3 Placas de Ensaio, Sensor de LCD16x2, Teclado4x4.
+
+<b>Creditos:</b>Trabalho realizado por [Artur Fabricio da Silva](https://github.com/arturfabriciohahaedgy) e [Thiago Larangeira Souza](https://github.com/baconzitus).
